@@ -67,7 +67,7 @@ Because in omnichannel retail, the difference between a good holiday season and 
 
 ## 🔑 Key Takeaways
 - Web is the profit engine. Every channel investment decision should be evaluated against its impact on Web performance first.
-- CM is underrated and underfunded — if Cyber Monday generates higher margins than Black Friday, it deserves equal or greater campaign investment, not second-billing.
+- CM is underrated and underfunded. If Cyber Monday generates higher margins than Black Friday, it deserves equal or greater campaign investment, not second-billing.
 - Discount strategy can be bolder. Data shows discounts do not drive returns. The business has more pricing flexibility than it may currently be exercising.
 - Stockout management is a direct revenue leak. 12 days of Footwear stockout during peak season is not an inventory oversight, it is a measurable, preventable revenue loss.
 - The omnichannel LTV opportunity is unrealized. 44.25% of customers use multiple channels but are not generating meaningfully higher baskets. There is a cross-channel personalization and incentive gap to close.
